@@ -1,6 +1,6 @@
-# Practical 3
+# Practical 5
 
-This folder contains practical 4 codes
+This folder contains practical 5 codes
 
 ## Compile:
 
